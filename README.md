@@ -53,13 +53,35 @@ leaf_diseas_detection/
 │
 └── templates/
     └── index.html
+```
 ## 🚀 How to Run
 
 ### 1. Install dependencies
 
-```bash
 pip install tensorflow flask pillow numpy
+
 2. Run the Flask application
+
 python app.py
+
 3. Open in browser
+
 http://127.0.0.1:5000
+
+## 🔮 Future Improvements
+
+- Add more plant disease classes.
+- Use a larger and more diverse dataset.
+- Improve performance using Transfer Learning.
+- Deploy the application online.
+- Add treatment and prevention recommendations.
+
+## 👨‍💻 Author
+
+**Devang Patil**
+
+AI/ML Student | Deep Learning & Computer Vision
+
+---
+
+⭐ If you find this project useful, consider giving it a star!
